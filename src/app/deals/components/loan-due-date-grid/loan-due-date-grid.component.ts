@@ -5,7 +5,6 @@ import { ColDef } from 'ag-grid-community';
 @Component({
   selector: 'app-loan-due-date-grid',
   templateUrl: './loan-due-date-grid.component.html',
-  styleUrls: ['./loan-due-date-grid.component.css']
 })
 export class LoanDueDateGridComponent implements OnInit {
 

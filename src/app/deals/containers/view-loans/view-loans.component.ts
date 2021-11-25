@@ -8,7 +8,6 @@ import { DealsHttpService } from '../../services';
 @Component({
   selector: 'app-view-loans',
   templateUrl: './view-loans.component.html',
-  styleUrls: ['./view-loans.component.css']
 })
 export class ViewLoansComponent implements OnInit {
 

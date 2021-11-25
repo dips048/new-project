@@ -4,7 +4,6 @@ import { AgGridAngular } from 'ag-grid-angular';
 @Component({
   selector: 'app-property-loan-grid',
   templateUrl: './property-loan-grid.component.html',
-  styleUrls: ['./property-loan-grid.component.css']
 })
 export class PropertyLoanGridComponent implements OnInit {
 
